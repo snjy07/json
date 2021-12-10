@@ -1,0 +1,34 @@
+[  
+    {  
+      "product_name": "Water",  
+      "stock" : "224",
+      "size" : "Compact",
+      "color" : "Red",
+      "product_price": "1",  
+      "product_qty": "12"  
+    },  
+    {  
+      "product_name": "Pepsi", 
+      "stock" : "224",
+      "size" : "Compact",
+      "color" : "Red",  
+      "product_price": "3",  
+      "product_qty": "15"  
+    },  
+    {  
+      "product_name": "SevenUP",   
+      "stock" : "224",
+      "size" : "Compact",
+      "color" : "Red",
+      "product_price": "3",  
+      "product_qty": "12"  
+    },  
+    {  
+      "product_name": "cola",  
+      "stock" : "224",
+      "size" : "Compact",
+      "color" : "Red", 
+      "product_price": "3",  
+      "product_qty": "24"  
+    }
+]
