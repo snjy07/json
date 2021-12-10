@@ -1,34 +1,247 @@
 [  
     {  
-      "product_name": "Water",  
-      "stock" : "224",
-      "size" : "Compact",
-      "color" : "Red",
-      "product_price": "1",  
-      "product_qty": "12"  
+      "product_name": "Canister vacuum",  
+      "stock" : "25",
+      "size" : "32mm",
+      "color" : "Red",  
+      "product_qty": "10"  
     },  
     {  
-      "product_name": "Pepsi", 
-      "stock" : "224",
-      "size" : "Compact",
-      "color" : "Red",  
-      "product_price": "3",  
+      "product_name": "Upright vacuum", 
+      "stock" : "30",
+      "size" : "36mm",
+      "color" : "Yellow",    
       "product_qty": "15"  
     },  
     {  
-      "product_name": "SevenUP",   
-      "stock" : "224",
-      "size" : "Compact",
-      "color" : "Red",
-      "product_price": "3",  
+      "product_name": "Sweeper vacuum",   
+      "stock" : "15",
+      "size" : "38mm",
+      "color" : "Green",  
       "product_qty": "12"  
     },  
     {  
-      "product_name": "cola",  
-      "stock" : "224",
-      "size" : "Compact",
-      "color" : "Red", 
-      "product_price": "3",  
+      "product_name": "Robotic vacuum",  
+      "stock" : "35",
+      "size" : "28mm",
+      "color" : "Black",   
+      "product_qty": "10"  
+    }
+	{  
+      "product_name": "Pet vacuum",  
+      "stock" : "40",
+      "size" : "32mm",
+      "color" : "Purple",   
+      "product_qty": "20"
+    }
+	{  
+      "product_name": "Handheld vacuum",  
+      "stock" : "33",
+      "size" : "38mm",
+      "color" : "Red",  
+      "product_qty": "22" 
+    }
+	{  
+      "product_name": "Deep cleaner vacuum",  
+      "stock" : "22",
+      "size" : "36mm",
+      "color" : "Silver",   
+      "product_qty": "12"
+    }
+	{  
+      "product_name": "Carpet cleaner vacuum",  
+      "stock" : "26",
+      "size" : "34mm",
+      "color" : "Multi",   
+      "product_qty": "15"  
+    }
+	{  
+      "product_name": "Stick vacuum ",  
+      "stock" : "28",
+      "size" : "30mm",
+      "color" : "Orange",   
+      "product_qty": "19"  
+    }
+	{  
+      "product_name": "Backpack vacuum",  
+      "stock" : "19",
+      "size" : "38mm",
+      "color" : "White",   
+      "product_qty": "9"  
+    }
+	{  
+      "product_name": "Central vacuum",  
+      "stock" : "40",
+      "size" : "32mm",
+      "color" : "Red",   
       "product_qty": "24"  
+    }
+	{  
+      "product_name": "Wet vacuum cleaner",  
+      "stock" : "42",
+      "size" : "28mm",
+      "color" : "Black",   
+      "product_qty": "29"  
+    }
+	{  
+      "product_name": "Dry vacuum cleaner",  
+      "stock" : "31",
+      "size" : "36mm",
+      "color" : "Indigo",   
+      "product_qty": "16"  
+    }
+	{  
+      "product_name": "Upholstery vacuum",  
+      "stock" : "29",
+      "size" : "38mm",
+      "color" : "Blue",  
+      "product_qty": "14"  
+    }
+	{  
+      "product_name": "Multi-Surface vacuum",  
+      "stock" : "21",
+      "size" : "34mm",
+      "color" : "Multi",   
+      "product_qty": "8"  
+    }
+	{  
+      "product_name": "Bagged vacuum",  
+      "stock" : "18",
+      "size" : "36mm",
+      "color" : "Violet",   
+      "product_qty": "7"  
+    }
+	{  
+      "product_name": "Windtunnel vacuum",  
+      "stock" : "26",
+      "size" : "38mm",
+      "color" : "Indigo",   
+      "product_qty": "13"  
+    }
+	{  
+      "product_name": "Elite vacuum",  
+      "stock" : "27",
+      "size" : "32mm",
+      "color" : "Blue",   
+      "product_qty": "12"  
+    }
+	{  
+      "product_name": "Convertible vacuum",  
+      "stock" : "34",
+      "size" : "34mm",
+      "color" : "Green",   
+      "product_qty": "20"  
+    }
+	{  
+      "product_name": "Tempo vacuum",  
+      "stock" : "36",
+      "size" : "38mm",
+      "color" : "Yellow",  
+      "product_qty": "14"  
+    }
+	{  
+      "product_name": "Featherweight vacuum",  
+      "stock" : "39",
+      "size" : "32mm",
+      "color" : "Orange",   
+      "product_qty": "19"  
+    }
+	{  
+      "product_name": "Superbroom vacuum",  
+      "stock" : "25",
+      "size" : "36mm",
+      "color" : "Red",   
+      "product_qty": "12"  
+    }
+	{  
+      "product_name": "Shark Rocket series vacuum",  
+      "stock" : "28",
+      "size" : "30mm",
+      "color" : "Black",  
+      "product_qty": "24"  
+    }
+	{  
+      "product_name": "Quik Broom vacuum",  
+      "stock" : "45",
+      "size" : "32mm",
+      "color" : "Skyblue",   
+      "product_qty": "24"  
+    }
+	{  
+      "product_name": "Autobot vacuum",  
+      "stock" : "24",
+      "size" : "36mm",
+      "color" : "White",   
+      "product_qty": "11"  
+    }
+	{  
+      "product_name": "iRobot vacuum",  
+      "stock" : "29",
+      "size" : "32mm",
+      "color" : "Red",   
+      "product_qty": "10"  
+    }
+	{  
+      "product_name": "Dustbot vacuum",  
+      "stock" : "50",
+      "size" : "32mm",
+      "color" : "Blue",   
+      "product_qty": "24"  
+    }
+	{  
+      "product_name": "Ecovacs Robotics vacuum",  
+      "stock" : "55",
+      "size" : "38mm",
+      "color" : "Black",   
+      "product_qty": "29"  
+    }
+	{  
+      "product_name": "Shark IQ vacuum",  
+      "stock" : "42",
+      "size" : "34mm",
+      "color" : "Green",   
+      "product_qty": "17"  
+    }
+	{  
+      "product_name": "AutoPower vacuum",  
+      "stock" : "49",
+      "size" : "32mm",
+      "color" : "Red",   
+      "product_qty": "24"  
+    }
+	{  
+      "product_name": "Roborock vacuum",  
+      "stock" : "47",
+      "size" : "36mm",
+      "color" : "Orange",   
+      "product_qty": "26"  
+    }
+	{  
+      "product_name": "Bagless vacuum",  
+      "stock" : "43",
+      "size" : "34mm",
+      "color" : "Violet",   
+      "product_qty": "22"  
+    }
+	{  
+      "product_name": "Chargable vacuum",  
+      "stock" : "48",
+      "size" : "38mm",
+      "color" : "Indigo",   
+      "product_qty": "29"  
+    }
+	{  
+      "product_name": "Long Cord vacuum",  
+      "stock" : "52",
+      "size" : "32mm",
+      "color" : "Green",   
+      "product_qty": "25"  
+    }
+	{  
+      "product_name": "Cordless vacuum",  
+      "stock" : "51",
+      "size" : "22mm",
+      "color" : "Red",   
+      "product_qty": "28"  
     }
 ]
